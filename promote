@@ -1,24 +1,24 @@
 {
   "app": [
     {
-      "n": "Whatsapp", 
-      "d": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones.", 
-      "i":"https://lh5.ggpht.com/MTXpAkHPBXrtAK8UTeMR0J2Vl5vTCGnfSAaPdkYFI68OfnwlkiHjWuZzWQhf-0rlHH7SJb3__jujF_aiH1TGKg4", 
-      "bu":"https://lh6.ggpht.com/thqX9OModgtqADPUn0umyyH_vkcV8YeRogNPM0VIhnJM7POkP2C2EIf76O88-kTl2CnSkrb6_PcsesiWON5Tiw=h200", 
-      "vu":"https://a.uguu.se/tHX28ucq6bmd_HowtovideocallonWhatsApp.mp4", 
-      "p": "com.whatsapp", 
-      "ctat": "Download now" 
-      "cta": "https://www.google.com" 
+      "n": "Whatsapp",
+      "d": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones.",
+      "i": "https://lh5.ggpht.com/MTXpAkHPBXrtAK8UTeMR0J2Vl5vTCGnfSAaPdkYFI68OfnwlkiHjWuZzWQhf-0rlHH7SJb3__jujF_aiH1TGKg4",
+      "bu": "https://lh6.ggpht.com/thqX9OModgtqADPUn0umyyH_vkcV8YeRogNPM0VIhnJM7POkP2C2EIf76O88-kTl2CnSkrb6_PcsesiWON5Tiw=h200",
+      "vu": "",
+      "p": "com.whatsapp",
+      "ctat": "Download now",
+      "cta": "https://www.google.com"
     },
     {
       "n": "Facebook",
       "d": "Keeping up with friends is faster and easier than ever.",
       "i": "https://lh3.googleusercontent.com/Xt58l6YWdKdMTP5vmvVeW9Y_N0f8HQxXiJBH1pfv8mKiaDwLctNfK4SbCSDI3cnteGbfn-54YFoYGOJUa-NIQ_s",
-      "bu":"https://lh4.ggpht.com/reionpUizGhL338M8WjXxax-4fIyr8SQfc_PGikE6FuHAqBqNaf5_DdgmprsNnSGeCjWEZ2Of-rh5ztF22JasHM=h200", 
-      "vu": "", 
+      "bu": "https://lh4.ggpht.com/reionpUizGhL338M8WjXxax-4fIyr8SQfc_PGikE6FuHAqBqNaf5_DdgmprsNnSGeCjWEZ2Of-rh5ztF22JasHM=h200",
+      "vu": "",
       "p": "com.facebook.katana",
-      "ctat": "Download now" 
-      "cta": "https://play.google.com/store/apps/details?id=com.facebook.katana" 
+      "ctat": "Download now",
+      "cta": "https://play.google.com/store/apps/details?id=com.facebook.katana"
     }
   ],
   "c": 3600,
