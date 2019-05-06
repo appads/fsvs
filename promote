@@ -4,18 +4,22 @@
       "n": "Whatsapp", 
       "d": "chat app", 
       "i":"https://image.flaticon.com/icons/svg/134/134937.svg", 
+      "bu":"https://image.flaticon.com/icons/svg/134/134937.svg", 
+      "vu":"https://image.flaticon.com/icons/svg/134/134937.svg", 
       "p": "com.whatsapp", 
-      "u": "" 
+      "cta": "https://www.google.com" 
     },
     {
       "n": "Whatsapp",
       "d": "chat app",
       "i": "https://socialcleark.com/wp-content/uploads/2018/09/instagram-300x300.png",
       "p": "com.whatsapp",
-      "u": ""
+      "bu":"https://image.flaticon.com/icons/svg/134/134937.svg", 
+      "vu":"https://image.flaticon.com/icons/svg/134/134937.svg", 
+      "cta": "https://www.google.com" 
     }
   ],
   "c": 3600,
   "r": true,
-  "rc": 4
+  "rc": 1
 }
