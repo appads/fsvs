@@ -1,1 +1,1 @@
-{"data":{"splash":{"enable":false,"name":"Janmashtami","skip_time":22,"img":"https://wallpapercave.com/wp/wp3323499.png","video":"https://raw.githubusercontent.com/appads/fsvs/master/janmashtami/janmashtami1.mp4","cache_video":false,"cta":{"type":4,"data":"Janmashtami"}}},"rc":1}
+{"data":{"splash":{"enable":true,"name":"Navratri","skip_time":26,"img":"https://raw.githubusercontent.com/appads/fsvs/master/Navaratri/dholida.webp","video":"https://raw.githubusercontent.com/appads/fsvs/master/Navaratri/dholida.mp4","cache_video":true,"cta":{"type":4,"data":"Navratri"}}},"rc":1}
