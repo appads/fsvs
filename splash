@@ -1,1 +1,1 @@
-{"data":{"splash":{"enable":false,"name":"Navratri","skip_time":27,"img":"https://raw.githubusercontent.com/appads/fsvs/master/Navaratri/dholida.webp","video":"https://raw.githubusercontent.com/appads/fsvs/master/Navaratri/dholida.mp4","cache_video":true,"cta":{"type":4,"data":"Navratri"}}},"rc":1}
+{"data":{"splash":{"enable":true,"name":"Holi","skip_time":23,"img":"https://raw.githubusercontent.com/appads/fsvs/master/Holi/img.png","video":"https://raw.githubusercontent.com/appads/fsvs/master/Holi/video.mp4","cache_video":true,"cta":{"type":4,"data":"Holi"}}},"rc":1}
