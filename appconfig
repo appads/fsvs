@@ -2,16 +2,10 @@
   "bannerData": {
     "data": [
       {
-        "name": "Vido",
-        "desc": "Create your own videos from photos or video",
         "cta": "Install",
         "ctaType": "app",
         "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
-        "asset": {
-          "icon": "https://lh3.googleusercontent.com/_caRwgUj_CEnxxRoJr6F-UTnUF6I3GBRtAzB972r9Vd41Zi5LKzlvFOPd_DrYotBtjXo=s180-rw",
-          "pcolor": "",
-          "tcolor": ""
-        }
+        "img": "https://lh3.googleusercontent.com/m_x4vq8b5Ylpv9r1rmlVoLgGYLP7AE4UbTEhBEs6P1yktTJuY2IvTU7FztuQIadtRV95=w500-h280-rw"
       }
     ]
   }
