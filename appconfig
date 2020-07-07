@@ -8,7 +8,7 @@
         "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
         "ctaTextColor": "#000000",
         "ctaStrokeColor": "#f55102",
-        "ctaStrokeWidth": 2,
+        "ctaStrokeWidth": 4,
         "ctaBgColor": "#ffffff"
       },
       {
@@ -18,7 +18,7 @@
         "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
         "ctaTextColor": "#000000",
         "ctaStrokeColor": "#ff4CAF50",
-        "ctaStrokeWidth": 2,
+        "ctaStrokeWidth": 4,
         "ctaBgColor": "#ffffff"
       }
     ]
