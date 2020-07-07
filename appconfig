@@ -8,7 +8,7 @@
         "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
         "ctaTextColor": "#000000",
         "ctaStrokeColor": "#f55102",
-        "ctaStrokeWidth": 1,
+        "ctaStrokeWidth": 2,
         "ctaBgColor": "#ffffff"
       },
       {
@@ -17,8 +17,8 @@
         "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
         "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
         "ctaTextColor": "#000000",
-        "ctaStrokeColor": "#f55102",
-        "ctaStrokeWidth": 1,
+        "ctaStrokeColor": "#ff4CAF50",
+        "ctaStrokeWidth": 2,
         "ctaBgColor": "#ffffff"
       }
     ]
