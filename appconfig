@@ -6,15 +6,15 @@
         "ctaType": "app",
         "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
         "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
-        "ctaTextColor": "#ffffff",
+        "ctaTextColor": "#000000",
         "ctaStrokeColor": "#ffffff"
       },
       {
         "ctaText": "Install",
         "ctaType": "app",
         "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
-        "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg?",
-        "ctaTextColor": "#ffffff",
+        "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
+        "ctaTextColor": "#000000",
         "ctaStrokeColor": "#ffffff"
       }
     ]
