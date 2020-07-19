@@ -9,7 +9,8 @@
         "ctaTextColor": "#000000",
         "ctaStrokeColor": "#f55102",
         "ctaStrokeWidth": 4,
-        "ctaBgColor": "#ffffff"
+        "ctaBgColor": "#ffffff",
+        "type":"customeAd"
       },
       {
         "ctaText": "Install",
@@ -19,7 +20,30 @@
         "ctaTextColor": "#000000",
         "ctaStrokeColor": "#ff4CAF50",
         "ctaStrokeWidth": 4,
-        "ctaBgColor": "#ffffff"
+        "ctaBgColor": "#ffffff",
+        "type":"customeAd"
+      },
+       {
+        "ctaText": "Install",
+        "ctaType": "app",
+        "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
+        "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
+        "ctaTextColor": "#000000",
+        "ctaStrokeColor": "#ff4CAF50",
+        "ctaStrokeWidth": 4,
+        "ctaBgColor": "#ffffff",
+        "type":"facebookAd"
+      },
+      {
+        "ctaText": "Install",
+        "ctaType": "app",
+        "ctaData": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
+        "img": "https://raw.githubusercontent.com/appads/fsvs/master/banner/img/1.jpg",
+        "ctaTextColor": "#000000",
+        "ctaStrokeColor": "#ff4CAF50",
+        "ctaStrokeWidth": 4,
+        "ctaBgColor": "#ffffff",
+        "type":"admobAd"
       }
     ]
   }
