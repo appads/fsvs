@@ -3,22 +3,12 @@
     {
       "n": "Music Player - Audio Player, MP3 Player",
       "d": "Music player is a powerful audio player and manage all your music files quickly and easily.",
-      "i": "https://lh3.googleusercontent.com/5g1eJQD3kAV4Kvqc8rCHkP3IuWQQyHl3QBRvx-MQPApmvLELqoDBfi2UvlWDeSpdDQ=s180-rw",
-      "bu": "https://lh3.googleusercontent.com/IJiGdY_iS4nwi8AdvJAXPxQSK_Y30sbJ_8Q3-M0MMjTKpqqETt5f9ZyhhKfmxKOz4sud--wjxzozAAHqNF4h7w=h200",
-      "vu": "",
-      "p": "com.soni.music.musicplayer.mp3player",
+      "i": "https://play-lh.googleusercontent.com/_caRwgUj_CEnxxRoJr6F-UTnUF6I3GBRtAzB972r9Vd41Zi5LKzlvFOPd_DrYotBtjXo=s180-rw",
+      "bu": "https://raw.githubusercontent.com/appads/fsvs/master/vdo/20_2_21_05_05.png",
+      "vu": "https://raw.githubusercontent.com/appads/fsvs/master/vdo/20_2_21_05_05.mp4",
+      "p": "com.vido.particle.ly.lyrical.status.maker",
       "ctat": "Install now",
-      "cta": "https://play.google.com/store/apps/details?id=com.soni.music.musicplayer.mp3player"
-    },
-    {
-      "n": "Live Train Status : PNR Status & Railway Info",
-      "d": "Live Train Status : PNR Status & Indian Railway Info",
-      "i": "https://lh3.googleusercontent.com/9hS0_yJZQqwfp74fbC0oOhpWlu770dijOcLnifO3Sqsw20pCxtjdGejGFYyUp6wuCss=s180-rw",
-      "bu": "https://lh3.googleusercontent.com/loUbekuOy9vq2AnJKXLvKNFYbEO4NZXzrk1XJLMJoo9Oub2jlsIq3nLVPoF-ub9MIXaV9bXoHNd6bJWQOEp8mw=h200",
-      "vu": "",
-      "p": "com.live.indian.train.running.status",
-      "ctat": "Install now",
-      "cta": "https://play.google.com/store/apps/details?id=com.live.indian.train.running.status"
+      "cta": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker"
     }
   ],
   "ratio": 5,
